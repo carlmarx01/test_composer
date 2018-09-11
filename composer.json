@@ -1,0 +1,15 @@
+{
+    "name": "carl/packagetest",
+    "authors": [
+        {
+            "name": "郝晓明",
+            "email": "haoxiaoming@yichengsen.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Carl\\Packagetest\\": "src/"
+		}
+	},
+    "require": {}
+}
